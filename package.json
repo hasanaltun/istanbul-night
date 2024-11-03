@@ -1,0 +1,22 @@
+{
+  "name": "istanbul-night",
+  "displayName": "Istanbul Night",
+  "description": "A sleek Visual Studio Code theme inspired by the enchanting night lights of Istanbul.",
+  "version": "0.0.1",
+  "publisher": "HasanAltun",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Istanbul Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Istanbul Night-color-theme.json"
+      }
+    ]
+  }
+}
