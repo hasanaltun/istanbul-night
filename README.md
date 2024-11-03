@@ -1,6 +1,6 @@
 # Istanbul Night VS Code theme
 
-![Istanbul Night VS Code theme](cover.png)
+![Istanbul Night VS Code theme](cover.jpg)
 
 ## Install
 
