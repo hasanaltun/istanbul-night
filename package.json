@@ -3,7 +3,13 @@
   "displayName": "Istanbul Night",
   "description": "A sleek Visual Studio Code theme inspired by the enchanting night lights of Istanbul.",
   "version": "0.0.1",
-  "publisher": "HasanAltun",
+  "publisher": "hasanaltun",
+  "icon": "icon.png",
+  "homepage": "https://github.com/hasanaltun/istanbul-night",
+  "repository": {
+    "url": "https://github.com/hasanaltun/istanbul-night",
+    "type": "git"
+},
   "engines": {
     "vscode": "^1.95.0"
   },
